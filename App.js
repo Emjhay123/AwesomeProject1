@@ -13,7 +13,7 @@ const App = () => {
       <ProfileCard
         username={'Marty Joash E. Vapor'}
         description={
-          'An IT student specializing in System Engineering who aspires to become a Cloud Engineer'
+          'A 4th year student-trainee studying Bachelor of Science in Information Technology at Colegio de San Juan de Letran. I am a motivated and dedicated individual who is always eager to learn and grow in the field of technology. I have a strong interest in Networking, Cybersecurity, and Software Development. I am also a team player, enjoy collaborating with others, and provide assistance that is within my capabilities to achieve common goals and produce quality results.'
         }
         imgUrl={'./MartyPic.png'}
       />
